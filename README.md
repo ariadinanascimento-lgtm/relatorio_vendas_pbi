@@ -16,8 +16,8 @@ O desafio consistiu em desenvolver um relatório gerencial de vendas com foco em
 ## 📁 Arquivos
 
 * **Dataset usado:** [Amostra Financeira (Excel)](Arquivos/Financial%20Sample.xlsx)
-* **Arquivo do Dashboard:** [Dashboard Power BI (PBIX)](Arquivos/dashboard_datasetsample_pbi.pbix)
-* **Imagens usadas:** [Dashboard Power BI (PBIX)](Arquivos/dashboard_datasetsample_pbi.pbix)
+* **Arquivo do Dashboard:** [Dashboard Power BI (PBIX)](Arquivos/dashboard_gerencial_vendas_pbi.pbix)
+* **Imagens usadas:** [Borracha](Arquivos/Clean%blue.png) [Logo DIO](Arquivos/logo_dio.png)
 
 
 ---
