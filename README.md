@@ -95,8 +95,7 @@ Aqui o foco está no detalhamento dos lucros:
 
 ## 🚀 Conclusão
 
-Este projeto foi fundamental para consolidar meus conhecimentos em Power BI, especialmente no uso de recursos de navegabilidade e experiência do usuário.
-A aplicação de indicadores, botões e visuais interativos tornou o relatório mais intuitivo, dinâmico e funcional, proporcionando ao usuário final uma exploração mais eficiente dos dados.
+Este projeto foi fundamental para consolidar meus conhecimentos em Power BI, especialmente no uso de recursos de navegabilidade e experiência do usuário. A aplicação de indicadores, botões e visuais interativos tornou o relatório mais intuitivo, dinâmico e funcional, proporcionando ao usuário final uma exploração mais eficiente dos dados.
 
 
 ---
